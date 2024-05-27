@@ -7,6 +7,8 @@ The entire project mainly consists of 3 modules, which are
 	Admin module
 	User module
 	Doctor module
+
+
 Admin module:
 1.	Dashboard: In this section, admin can view the Patients, Doctors, Appointments and New queries.
 2.	Doctors: In this section, admin can add doctor’s specialization and mange doctors (Add/Update).
@@ -19,12 +21,16 @@ Admin module:
 9.	Reports: In this section, admin can view reports of patients in particular periods.
 10.	Patient Search: In this section, admin can search patient with the help of patient name and mobile number.
 Admin can also change his/her own password.
+
+
 User module:
 1.	Dashboard: In this section, patients can view the his/her profile, Appointments and Book Appointment.
 2.	Book Appointment: In this section, Patient can book his/her appointment.
 3.	Appointment History: In this section, Patients can see his/her own appointment history.
 4.	Medical History: In this section, Patients can see his/her own appointment history.
 User can update his/her profile, change the password and recover the password.
+
+
 Doctor module:
 1.	Dashboard: In this section, doctor can view his/her own profile and online appointments.
 2.	Appointment History: In this section, Doctor can see patient’s appointment history.
